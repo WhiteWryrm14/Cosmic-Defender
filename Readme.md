@@ -2,9 +2,9 @@
 
 ![Cosmic Defender Logo](Resources/Logo.svg)
 
-##  Space Adventure on Windows
+##  Space Adventure 
 
-**Cosmic Defender** is an exciting space shooter game written in  and designed to run on Windows systems. Defend the galaxy from relentless alien invaders using only your ship and your wits!
+**Cosmic Defender** is an exciting space shooter game written in  . Defend the galaxy from relentless alien invaders using only your ship and your wits!
 
 ## 📖 Table of Contents
 
