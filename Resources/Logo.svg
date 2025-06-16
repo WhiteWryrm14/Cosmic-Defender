@@ -90,6 +90,5 @@
   <g transform="translate(250, 400)">
     <text x="0" y="0" font-family="'Orbitron', sans-serif" font-size="42" font-weight="bold" text-anchor="middle" fill="#ffffff" letter-spacing="2">COSMIC</text>
     <text x="0" y="50" font-family="'Orbitron', sans-serif" font-size="48" font-weight="bold" text-anchor="middle" fill="#43d9bd" letter-spacing="2">DEFENDER</text>
-    <text x="0" y="76" font-family="'Courier New', monospace" font-size="14" text-anchor="middle" fill="#a0a5b0">TERMINAL EDITION</text>
-  </g>
+     </g>
 </svg>
