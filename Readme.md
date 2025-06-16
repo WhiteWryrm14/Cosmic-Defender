@@ -9,12 +9,6 @@
 ## 📖 Table of Contents
 
 - [Overview](#overview)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [How to Play](#how-to-play)
-- [Controls](#controls)
-- [Game Mechanics](#game-mechanics)
 
 ## Overview
 
