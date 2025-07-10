@@ -2,35 +2,7 @@ Cosmic Defender SDL3: A 1:1 C++26 Port of nFireInvaders.py
 
 This project rewrites the Python Turtle game into modern C++26 using SDL 3, SDL_ttf, the STL and CMake. You’ll get:
 
-- A CMakeLists.txt for building on Linux/Windows/macOS  
 - src/main.cpp with game logic, shapes, timing, input  
-
-📦 CMakeLists.txt
-
-`cmake
-cmakeminimumrequired(VERSION 3.23)
-project(CosmicDefenderSDL3 LANGUAGES CXX)
-
-set(CMAKECXXSTANDARD 26)
-set(CMAKECXXSTANDARD_REQUIRED ON)
-set(CMAKECXXEXTENSIONS OFF)
-
-Find SDL3 and SDL_ttf (install via package manager or vcpkg)
-find_package(SDL3 REQUIRED COMPONENTS video render)
-findpackage(SDL3ttf REQUIRED)
-
-addexecutable(cosmicdefender src/main.cpp)
-
-targetlinklibraries(cosmic_defender
-  PRIVATE SDL3::SDL3 SDL3::SDL3_ttf
-)
-`
-
-> Tip:  
-> - On Ubuntu: sudo apt install libsdl3-dev libsdl3-ttf-dev  
-> - On Windows: use vcpkg (vcpkg install sdl3 sdl3-ttf)  
-
----
 
 🕹️ src/main.cpp
 
