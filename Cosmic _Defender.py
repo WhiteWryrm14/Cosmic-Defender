@@ -3,7 +3,7 @@ import random
 import time
 
 win = turtle.Screen()
-win.title("nFire Invaders")
+win.title("Cosmic Defender")
 win.bgcolor("black")
 win.setup(width=600, height=600)
 win.tracer(0)
